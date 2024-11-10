@@ -1,0 +1,29 @@
+# Node modules directory
+node_modules/
+
+# Build output directory (default for Vite)
+dist/
+
+# Dependency directories
+.pnpm/
+.vscode/
+yarn.lock
+npm-debug.log*
+
+# Log files
+logs
+*.log
+*.log.*
+
+# Mac OS system files
+.DS_Store
+
+# TypeScript build outputs (if applicable)
+*.tsbuildinfo
+
+# Vite cache directory
+.vite/
+
+# Environment files
+.env
+.env.*.local
